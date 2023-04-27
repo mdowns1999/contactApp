@@ -1,0 +1,16 @@
+button{
+    margin:5px;
+}
+
+.contactPic{
+    max-height: 175px;
+    min-width: 150px;
+}
+
+.panelParagraph{
+    font-weight: bold;
+}
+
+.pannelInfo{
+    font-weight: none;
+}
